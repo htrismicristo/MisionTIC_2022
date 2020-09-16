@@ -1,0 +1,1 @@
+print("Hola gente de MinTIC 2022")
